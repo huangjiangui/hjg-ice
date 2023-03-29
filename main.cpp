@@ -6,7 +6,7 @@ int main(void)
 {
 	// using namespace std;
 	simon(3);
-	cout << "Pick an intege:"; //烽火戏诸侯
+	cout << "Pick an intege:"; 
 	int n;
 	cin >> n;
 	simon(n);
